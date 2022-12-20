@@ -18,7 +18,7 @@
 <img width="428" alt="2-membuat database" src="https://user-images.githubusercontent.com/80917799/208159398-7f9822af-63eb-4836-9103-e58b6b742e4b.png">
  
 ### Menyiapkan Aplikasi Fullstack
-- Mendownload source code nya
+- Mendownload source code nya : https://github.com/tegar-anggana/uas-manajemen-basis-data
 - Memasuki / cd ke folder 'backend', jalankan **npm install**
 - Memasuki / cd ke folder 'frontend', jalankan **npm install**
 ###  Menjalankan Aplikasi Fullstack
